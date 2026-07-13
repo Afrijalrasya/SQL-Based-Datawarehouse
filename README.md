@@ -72,17 +72,6 @@ data-warehouse-project/
 ```
 ---
 
-## 🌟 Tentang Saya
-
-Hello, I am **Afrijal Rasya Putra**, an Informatics student who is interested in exploring the world of **Data Engineering**. Although it's still early in my college journey, I'm excited to learn about how data is processed and turned into meaningful information.
-
-📌 I am currently learning:
-- **Python** programming
-- **SQL** and the basics of data manipulation
-- Basic concepts of **ETL** and data pipeline workflows
-
-I love learning and exploring new things, especially those related to data. I'm currently building my skills gradually and looking for opportunities to join the industry to give me real experience in this field.
-
 📫 Feel free to connect or discuss-I'd love to learn and grow together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afrijalrasyaputra/)
